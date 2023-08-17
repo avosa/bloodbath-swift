@@ -77,8 +77,11 @@ func cancelEvent(id: String) {
         }
     }
 }
+```
 
-// Usage
+You can then use the functions in your application as follows:
+
+```swift
 BloodbathSwift.shared.config.apiKey = "my-api-key"
 
 scheduleEvent()
