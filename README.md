@@ -94,4 +94,4 @@ Make sure to replace `"event_id"` with the actual ID of an event you want to fin
 
 # Conclusion
 
-BloodbathSwift is a powerful library that simplifies event scheduling and management. This README should have given you an idea of how to use it in your Swift applications. For more information, see the [official documentation](https://docs.bloodbath.io/).
+BloodbathSwift is a powerful library that simplifies event scheduling and management. For more information, see the [official documentation](https://docs.bloodbath.io/).
