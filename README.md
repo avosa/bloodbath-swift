@@ -1,6 +1,6 @@
 # BloodbathSwift
 
-The [BloodbathSwift](https://github.com/avosa/bloodbath-swift) library provides convenient access to the Bloodbath API from applications written in the Swift language. This library will eventually be moved [here](https://github.com/bloodbath-io).
+This [BloodbathSwift](https://github.com/avosa/bloodbath-swift) library provides convenient access to the Bloodbath API from applications written in the Swift language. This library will eventually be moved [here](https://github.com/bloodbath-io).
 
 ## Installation
 
